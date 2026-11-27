@@ -1,1 +1,20 @@
 @import "tailwindcss";
+
+
+@theme {
+    /* font family and size */
+    --font-Segoe: "Segoe UI", Arial, sans-serif;
+    --text-size-16: 16px;
+    /* spacing */
+     --spacing-aside-r-l: 16px;
+     --spacing-aside-title-t-b: 11.56px;
+     /* color */
+    --sidemenu-bg-color: #E2E8F0;
+    --sidemenu-icon-bg-title-color: #0F172B;
+    --primary-dark-color: #0F172B;
+    --secondary-dark-color: #0F172BF2;
+    /* border size */
+    --border-size-0-75: 0.75px;
+    /* border color */
+    --border-color: #1D293D;
+}
